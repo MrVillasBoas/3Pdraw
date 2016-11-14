@@ -1,0 +1,34 @@
+html{
+	margin-right: 0;
+	vertical-align: baseline;
+	list-style: none;
+	overflow-x: hidden;
+}
+body{
+	font-size: 10px !important;
+}
+p{
+	font-size: 1.6em;
+}
+.navbar{
+	font-size: 1.4em;
+	margin-bottom: 0px;
+}
+.banner{
+	width: 100%;
+	height: 100vh;
+	background: url('../images/modelo-banner.jpg') no-repeat;
+	background-size: 75%;
+	color: #FFF;
+	background-attachment: fixed;
+	background-position: center 25px;
+}
+.autores{
+	padding: 100px;
+}
+.fotos{
+	padding: 100px;
+}
+.contato{
+	padding: 50px;
+}
